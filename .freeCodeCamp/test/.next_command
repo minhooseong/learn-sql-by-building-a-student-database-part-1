@@ -113,3 +113,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git add .
 git add .
+git remote set-url origin https://github.com/minhooseong/learn-sql-by-building-a-student-database-part-1.git
+git add .
