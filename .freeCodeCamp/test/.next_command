@@ -115,3 +115,8 @@ git add .
 git add .
 git remote set-url origin https://github.com/minhooseong/learn-sql-by-building-a-student-database-part-1.git
 git add .
+Username: minhooseong
+git push
+Username for 'https://github.com': minhooseong
+git push
+git add .
